@@ -1,2 +1,2 @@
 # chicken_eating
-a game based on cocosX-2d  
+a game based on cocos2d-X
